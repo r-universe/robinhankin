@@ -3,3 +3,133 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Brobdingnag"]
+	path = Brobdingnag
+	url = https://github.com/robinhankin/brobdingnag
+	shallow = true
+	registered = true
+[submodule "calibrator"]
+	path = calibrator
+	url = https://github.com/robinhankin/calibrator
+	shallow = true
+	registered = true
+[submodule "clifford"]
+	path = clifford
+	url = https://github.com/robinhankin/clifford
+	shallow = true
+	registered = true
+[submodule "cmvnorm"]
+	path = cmvnorm
+	url = https://github.com/robinhankin/cmvnorm
+	shallow = true
+	registered = true
+[submodule "contfrac"]
+	path = contfrac
+	url = https://github.com/robinhankin/contfrac
+	shallow = true
+	registered = true
+[submodule "disordR"]
+	path = disordR
+	url = https://github.com/robinhankin/disordr
+	shallow = true
+	registered = true
+[submodule "elliptic"]
+	path = elliptic
+	url = https://github.com/robinhankin/elliptic
+	shallow = true
+	registered = true
+[submodule "emulator"]
+	path = emulator
+	url = https://github.com/robinhankin/emulator
+	shallow = true
+	registered = true
+[submodule "freealg"]
+	path = freealg
+	url = https://github.com/robinhankin/freealg
+	shallow = true
+	registered = true
+[submodule "freegroup"]
+	path = freegroup
+	url = https://github.com/robinhankin/freegroup
+	shallow = true
+	registered = true
+[submodule "gsl"]
+	path = gsl
+	url = https://github.com/robinhankin/gsl
+	shallow = true
+	registered = true
+[submodule "hyper2"]
+	path = hyper2
+	url = https://github.com/robinhankin/hyper2
+	shallow = true
+	registered = true
+[submodule "jordan"]
+	path = jordan
+	url = https://github.com/robinhankin/jordan
+	shallow = true
+	registered = true
+[submodule "lorentz"]
+	path = lorentz
+	url = https://github.com/robinhankin/lorentz
+	shallow = true
+	registered = true
+[submodule "magic"]
+	path = magic
+	url = https://github.com/robinhankin/magic
+	shallow = true
+	registered = true
+[submodule "MM"]
+	path = MM
+	url = https://github.com/robinhankin/mm
+	shallow = true
+	registered = true
+[submodule "multivator"]
+	path = multivator
+	url = https://github.com/robinhankin/multivator
+	shallow = true
+	registered = true
+[submodule "mvp"]
+	path = mvp
+	url = https://github.com/robinhankin/mvp
+	shallow = true
+	registered = true
+[submodule "onion"]
+	path = onion
+	url = https://github.com/robinhankin/onion
+	shallow = true
+	registered = true
+[submodule "partitions"]
+	path = partitions
+	url = https://github.com/robinhankin/partitions
+	shallow = true
+	registered = true
+[submodule "permutations"]
+	path = permutations
+	url = https://github.com/robinhankin/permutations
+	shallow = true
+	registered = true
+[submodule "ResistorArray"]
+	path = ResistorArray
+	url = https://github.com/robinhankin/resistorarray
+	shallow = true
+	registered = true
+[submodule "spray"]
+	path = spray
+	url = https://github.com/robinhankin/spray
+	shallow = true
+	registered = true
+[submodule "stokes"]
+	path = stokes
+	url = https://github.com/robinhankin/stokes
+	shallow = true
+	registered = true
+[submodule "untb"]
+	path = untb
+	url = https://github.com/robinhankin/untb
+	shallow = true
+	registered = true
+[submodule "weyl"]
+	path = weyl
+	url = https://github.com/robinhankin/weyl
+	shallow = true
+	registered = true
