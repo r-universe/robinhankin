@@ -43,11 +43,6 @@
 	url = https://github.com/robinhankin/emulator
 	shallow = true
 	registered = true
-[submodule "freealg"]
-	path = freealg
-	url = https://github.com/robinhankin/freealg
-	shallow = true
-	registered = true
 [submodule "freegroup"]
 	path = freegroup
 	url = https://github.com/robinhankin/freegroup

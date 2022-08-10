@@ -32,10 +32,6 @@
     "oncran": true
   },
   {
-    "package": "freealg",
-    "oncran": true
-  },
-  {
     "package": "freegroup",
     "oncran": true
   },
