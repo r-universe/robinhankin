@@ -28,11 +28,6 @@
 	url = https://github.com/robinhankin/contfrac
 	shallow = true
 	registered = true
-[submodule "disordR"]
-	path = disordR
-	url = https://github.com/robinhankin/disordr
-	shallow = true
-	registered = true
 [submodule "elliptic"]
 	path = elliptic
 	url = https://github.com/robinhankin/elliptic
@@ -68,24 +63,9 @@
 	url = https://github.com/robinhankin/jordan
 	shallow = true
 	registered = true
-[submodule "lorentz"]
-	path = lorentz
-	url = https://github.com/robinhankin/lorentz
-	shallow = true
-	registered = true
 [submodule "magic"]
 	path = magic
 	url = https://github.com/robinhankin/magic
-	shallow = true
-	registered = true
-[submodule "MM"]
-	path = MM
-	url = https://github.com/robinhankin/mm
-	shallow = true
-	registered = true
-[submodule "multivator"]
-	path = multivator
-	url = https://github.com/robinhankin/multivator
 	shallow = true
 	registered = true
 [submodule "mvp"]
