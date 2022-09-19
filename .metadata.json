@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "disordR",
+    "oncran": true
+  },
+  {
     "package": "elliptic",
     "oncran": true
   },
@@ -48,7 +52,19 @@
     "oncran": true
   },
   {
+    "package": "lorentz",
+    "oncran": true
+  },
+  {
     "package": "magic",
+    "oncran": true
+  },
+  {
+    "package": "MM",
+    "oncran": true
+  },
+  {
+    "package": "multivator",
     "oncran": true
   },
   {
