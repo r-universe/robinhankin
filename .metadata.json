@@ -1,10 +1,6 @@
 [
   {
-    "package": "gsl",
-    "oncran": true
-  },
-  {
-    "package": "freegroup",
+    "package": "Brobdingnag",
     "oncran": true
   },
   {
@@ -12,23 +8,11 @@
     "oncran": true
   },
   {
-    "package": "multivator",
+    "package": "clifford",
     "oncran": true
   },
   {
-    "package": "freealg",
-    "oncran": true
-  },
-  {
-    "package": "lorentz",
-    "oncran": true
-  },
-  {
-    "package": "disordR",
-    "oncran": true
-  },
-  {
-    "package": "mvp",
+    "package": "cmvnorm",
     "oncran": true
   },
   {
@@ -36,23 +20,79 @@
     "oncran": true
   },
   {
+    "package": "disordR",
+    "oncran": true
+  },
+  {
+    "package": "elliptic",
+    "oncran": true
+  },
+  {
+    "package": "emulator",
+    "oncran": true
+  },
+  {
+    "package": "freealg",
+    "oncran": true
+  },
+  {
+    "package": "freegroup",
+    "oncran": true
+  },
+  {
+    "package": "gsl",
+    "oncran": true
+  },
+  {
     "package": "hyper2",
     "oncran": true
   },
   {
-    "package": "stokes",
+    "package": "jordan",
     "oncran": true
   },
   {
-    "package": "Brobdingnag",
+    "package": "lorentz",
     "oncran": true
   },
   {
-    "package": "clifford",
+    "package": "magic",
+    "oncran": true
+  },
+  {
+    "package": "MM",
+    "oncran": true
+  },
+  {
+    "package": "multivator",
+    "oncran": true
+  },
+  {
+    "package": "mvp",
+    "oncran": true
+  },
+  {
+    "package": "onion",
+    "oncran": true
+  },
+  {
+    "package": "partitions",
     "oncran": true
   },
   {
     "package": "permutations",
+    "oncran": true
+  },
+  {
+    "package": "ResistorArray",
+    "oncran": true
+  },
+  {
+    "package": "spray",
+    "oncran": true
+  },
+  {
+    "package": "stokes",
     "oncran": true
   },
   {
@@ -61,46 +101,6 @@
   },
   {
     "package": "weyl",
-    "oncran": true
-  },
-  {
-    "package": "ResistorArray",
-    "oncran": true
-  },
-  {
-    "package": "emulator",
-    "oncran": true
-  },
-  {
-    "package": "MM",
-    "oncran": true
-  },
-  {
-    "package": "jordan",
-    "oncran": true
-  },
-  {
-    "package": "elliptic",
-    "oncran": true
-  },
-  {
-    "package": "magic",
-    "oncran": true
-  },
-  {
-    "package": "partitions",
-    "oncran": true
-  },
-  {
-    "package": "spray",
-    "oncran": true
-  },
-  {
-    "package": "onion",
-    "oncran": true
-  },
-  {
-    "package": "cmvnorm",
     "oncran": true
   }
 ]
