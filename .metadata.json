@@ -1,5 +1,9 @@
 [
   {
+    "package": "BACCO",
+    "oncran": true
+  },
+  {
     "package": "Brobdingnag",
     "oncran": true
   },
@@ -17,6 +21,10 @@
   },
   {
     "package": "contfrac",
+    "oncran": true
+  },
+  {
+    "package": "Davies",
     "oncran": true
   },
   {
@@ -48,7 +56,15 @@
     "oncran": true
   },
   {
+    "package": "hypergeo",
+    "oncran": true
+  },
+  {
     "package": "jordan",
+    "oncran": true
+  },
+  {
+    "package": "knotR",
     "oncran": true
   },
   {
@@ -69,6 +85,10 @@
   },
   {
     "package": "mvp",
+    "oncran": true
+  },
+  {
+    "package": "Oarray",
     "oncran": true
   },
   {

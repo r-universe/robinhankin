@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BACCO"]
+	path = BACCO
+	url = https://github.com/robinhankin/bacco
+	shallow = true
+	registered = true
 [submodule "Brobdingnag"]
 	path = Brobdingnag
 	url = https://github.com/robinhankin/brobdingnag
@@ -26,6 +31,11 @@
 [submodule "contfrac"]
 	path = contfrac
 	url = https://github.com/robinhankin/contfrac
+	shallow = true
+	registered = true
+[submodule "Davies"]
+	path = Davies
+	url = https://github.com/robinhankin/davies
 	shallow = true
 	registered = true
 [submodule "disordR"]
@@ -63,9 +73,19 @@
 	url = https://github.com/robinhankin/hyper2
 	shallow = true
 	registered = true
+[submodule "hypergeo"]
+	path = hypergeo
+	url = https://github.com/robinhankin/hypergeo
+	shallow = true
+	registered = true
 [submodule "jordan"]
 	path = jordan
 	url = https://github.com/robinhankin/jordan
+	shallow = true
+	registered = true
+[submodule "knotR"]
+	path = knotR
+	url = https://github.com/robinhankin/knotr
 	shallow = true
 	registered = true
 [submodule "lorentz"]
@@ -91,6 +111,11 @@
 [submodule "mvp"]
 	path = mvp
 	url = https://github.com/robinhankin/mvp
+	shallow = true
+	registered = true
+[submodule "Oarray"]
+	path = Oarray
+	url = https://github.com/robinhankin/oarray
 	shallow = true
 	registered = true
 [submodule "onion"]
