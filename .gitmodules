@@ -2,15 +2,27 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "approximator"]
-	path = approximator
-	url = https://github.com/cran/approximator
 [submodule "BACCO"]
 	path = BACCO
 	url = https://github.com/robinhankin/bacco
 [submodule "Brobdingnag"]
 	path = Brobdingnag
 	url = https://github.com/robinhankin/brobdingnag
+[submodule "Davies"]
+	path = Davies
+	url = https://github.com/robinhankin/davies
+[submodule "MM"]
+	path = MM
+	url = https://github.com/robinhankin/mm
+[submodule "Oarray"]
+	path = Oarray
+	url = https://github.com/robinhankin/oarray
+[submodule "ResistorArray"]
+	path = ResistorArray
+	url = https://github.com/robinhankin/resistorarray
+[submodule "approximator"]
+	path = approximator
+	url = https://github.com/cran/approximator
 [submodule "calibrator"]
 	path = calibrator
 	url = https://github.com/robinhankin/calibrator
@@ -23,9 +35,6 @@
 [submodule "contfrac"]
 	path = contfrac
 	url = https://github.com/robinhankin/contfrac
-[submodule "Davies"]
-	path = Davies
-	url = https://github.com/robinhankin/davies
 [submodule "disordR"]
 	path = disordR
 	url = https://github.com/robinhankin/disordr
@@ -65,9 +74,6 @@
 [submodule "magic"]
 	path = magic
 	url = https://github.com/robinhankin/magic
-[submodule "MM"]
-	path = MM
-	url = https://github.com/robinhankin/mm
 [submodule "multipol"]
 	path = multipol
 	url = https://github.com/cran/multipol
@@ -77,9 +83,6 @@
 [submodule "mvp"]
 	path = mvp
 	url = https://github.com/robinhankin/mvp
-[submodule "Oarray"]
-	path = Oarray
-	url = https://github.com/robinhankin/oarray
 [submodule "onion"]
 	path = onion
 	url = https://github.com/robinhankin/onion
@@ -89,9 +92,6 @@
 [submodule "permutations"]
 	path = permutations
 	url = https://github.com/robinhankin/permutations
-[submodule "ResistorArray"]
-	path = ResistorArray
-	url = https://github.com/robinhankin/resistorarray
 [submodule "spray"]
 	path = spray
 	url = https://github.com/robinhankin/spray
