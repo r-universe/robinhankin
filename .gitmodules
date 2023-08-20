@@ -76,7 +76,7 @@
 	url = https://github.com/robinhankin/magic
 [submodule "multipol"]
 	path = multipol
-	url = https://github.com/cran/multipol
+	url = https://github.com/robinhankin/multipol
 [submodule "multivator"]
 	path = multivator
 	url = https://github.com/robinhankin/multivator
