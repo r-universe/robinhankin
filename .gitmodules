@@ -22,7 +22,7 @@
 	url = https://github.com/robinhankin/resistorarray
 [submodule "approximator"]
 	path = approximator
-	url = https://github.com/cran/approximator
+	url = https://github.com/robinhankin/approximator
 [submodule "calibrator"]
 	path = calibrator
 	url = https://github.com/robinhankin/calibrator
