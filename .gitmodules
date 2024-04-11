@@ -92,6 +92,9 @@
 [submodule "permutations"]
 	path = permutations
 	url = https://github.com/robinhankin/permutations
+[submodule "quadform"]
+	path = quadform
+	url = https://github.com/robinhankin/quadform
 [submodule "spray"]
 	path = spray
 	url = https://github.com/robinhankin/spray
