@@ -44,6 +44,9 @@
 [submodule "emulator"]
 	path = emulator
 	url = https://github.com/robinhankin/emulator
+[submodule "evitaicossa"]
+	path = evitaicossa
+	url = https://github.com/robinhankin/evitaicossa
 [submodule "frab"]
 	path = frab
 	url = https://github.com/robinhankin/frab
