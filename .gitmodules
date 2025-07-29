@@ -107,6 +107,9 @@
 [submodule "untb"]
 	path = untb
 	url = https://github.com/robinhankin/untb
+[submodule "vfunc"]
+	path = vfunc
+	url = https://github.com/robinhankin/vfunc
 [submodule "weyl"]
 	path = weyl
 	url = https://github.com/robinhankin/weyl
